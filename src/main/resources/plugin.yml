@@ -1,0 +1,9 @@
+name: MCProto
+main: org.mcproto.main.MCProtoPlugin
+version: 1.0
+description: Erlaubt direkte Kommunikation mittels Protocol Buffer mit dem Minecraft Server
+api-version: 1.18
+author: Felix Wallner
+#commands:
+#  testcmd:
+#    description: Some command
