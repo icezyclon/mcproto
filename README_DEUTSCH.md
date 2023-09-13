@@ -47,3 +47,7 @@ Ich empfehle *IntelliJ IDEA* (Community) um das Plugin zu bauen und zu bearbeite
 ## Lizenz
 
 [LGPLv3](LICENSE)
+
+> Notiz: Die *Absicht* hinder der gewählten Lizenz ist, dass die lizensierte Software frei *verwendet* werden darf (in der vorliegenden Form), sogar für kommerzielle oder proprietäre Projekte.
+> Allerdings müssen Änderungen *an der lizensierten Software selbst* unter der selben Lizenz öffentlich gemacht werden.
+> Dieser englischer [Blog](https://fossa.com/blog/open-source-software-licenses-101-lgpl-license/) erklärt die Details auf verständliche Art und Weise.

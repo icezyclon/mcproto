@@ -10,7 +10,7 @@ This plugin is heavily inspired by [RaspberryJuice](https://github.com/zhuowei/R
 
 This plugin uses Protocol Buffers and the [gRPC](https://grpc.io/) library and protocols to communicate with clients written in other programming languages and is itself written in [Kotlin](https://kotlinlang.org/).
 
-> MCProto is still a work in progress so except bugs 🪲!
+> MCProto is still a work in progress so expect bugs 🪲!
 
 ## Versions
 
@@ -46,3 +46,7 @@ I personally recommend *IntelliJ IDEA* (Community) to build and program the plug
 ## License
 
 [LGPLv3](LICENSE)
+
+> Note: The *intent* behind the chosen license, is to allow the licensed software to be *used* (as is) in any type of project, even commercial or closed-source ones.
+> However, changes or modifications *to the licensed software itself* must be shared via the same license openly.
+> Checkout [this blog](https://fossa.com/blog/open-source-software-licenses-101-lgpl-license/) for an in-depth explanation.
